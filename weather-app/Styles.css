@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.container {
+    margin: 50px auto;
+    max-width: 600px;
+}
+
+.form {
+    margin-bottom: 20px;
+}
